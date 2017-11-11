@@ -1,0 +1,5 @@
+## Ignore files, build results, and
+
+# Build results
+[Bb]in/
+[Dd]ata/
